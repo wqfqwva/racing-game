@@ -1,0 +1,6 @@
+{
+  "name": "Hyundai N Highway Racer",
+  "description": "현대자동차 고성능 N 라인업(아반떼 N, 아이오닉 5 N, RN24, N Vision 74)으로 펼치는 초고속 하이웨이 레이싱 & N 그린 부스트(NGB) 파괴 질주 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
